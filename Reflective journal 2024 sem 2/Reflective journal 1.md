@@ -1,4 +1,4 @@
-# Reflective Journal Title: `Your discussions in class in week 1 `
+# Reflective Journal 1: `Your discussions in class in week 1 `
 <br>
 
 ## Overal,
