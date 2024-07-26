@@ -1,4 +1,4 @@
-# Reflective Journal 1: `Your discussions in class in week 1 `
+# Reflective Journal 1: `Your group project last semester `
 <br>
 
 ## Overall,
