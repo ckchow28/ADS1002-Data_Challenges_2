@@ -1,4 +1,4 @@
-# Reflective Journal 2: `ADS1002 project `
+# Reflective Journal 2: `ADS1002 project `<br>
  Week 3: Are you happy with project you were assigned to? How did you (personally) deal with challenging tasks?
 <hr>
 
