@@ -1,7 +1,7 @@
 # Reflective Journal 3: `ADS1002 project `<br>
-<hr>
 
-**W5**: What is your role in the group and has it changed over the semester? If there were any challenges, how did you deal with them? <hr>
+**W5**: What is your role in the group and has it changed over the semester? If there were any challenges, how did you deal with them? 
+<hr>
 
 In this semester, I am assigned to the same group again as I was in last semester. This week, our group had agreed to choose the topic of Rossman store sales forecasting. Overall, I feel happy and satisfied to work together with the same team members again. This is because we had mingled and worked closely before last semester. Hence, I am confident that we will not have any miscommunication problems.
 
