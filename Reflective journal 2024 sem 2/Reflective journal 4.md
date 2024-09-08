@@ -1,6 +1,5 @@
 # Reflective Journal 3: `ADS1002 project `<br>
 
-<hr>
 
 Overall, my group project progressed smoothly. This is due to the dedication and teamwork of our team. In this week, we worked our way to deal with missing data in the Rossmann store dataset. To be precise, we used the imputation techniques to clean the data. I am glad and satisfied as we did quite an excellent job to handle the missing data.
 
