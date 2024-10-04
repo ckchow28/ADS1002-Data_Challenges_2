@@ -1,0 +1,8 @@
+# Reflective Journal 5: `ADS1002 project `<br>
+
+Overall, the group project progressed smoothly and is about to wrap up. I am really glad that my team had made our way to process the vast amount of data. In this week, we had further discussions and reviews on the work we did. All of us are satisfied and happy as we gain some insights after wrangling the data.
+
+As we will have our mock presentations after the semester break, we decided to have a short rehearsal. Before this, we have to finish up the features selection first. In this context, we had used Lasso and Ridge to do features selection. However, we faced difficulties of overfitting. We had consulted our lecturer Dr Ashish and he suggested us to do normalisation and scaling. Hence, we made our way to preprocess the data again. After some hard work, we are really relieved that we had come out with a optimal R score value. This means that we had overcome the overfitting problem. All we left for the project is only the predictions part. We had made the agreement to commence with that part after the mock presentation. Thus, we started to prepare a PowerPoint slide for the presentation. We have also shown our team spirit by dividing the workload equally to include all of our findings.
+
+In conclusion, my team had put all of our heart and soul for the project in the past 6 weeks. With teamwork, we are almost succeeding for the sales forecasting project. In my opinion, we can rehearse for a few more times before the final presentation week. In this case, we will be familiar with our findings and surely will present our work brilliantly.
+
